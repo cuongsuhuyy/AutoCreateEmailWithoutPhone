@@ -1,0 +1,7 @@
+[12696:23188:1023/145428.057:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[12696:23188:1023/145428.057:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[12696:23188:1023/145428.058:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[12696:6192:1023/145428.062:ERROR:device_event_log_impl.cc(214)] [14:54:28.063] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[12696:6192:1023/145428.077:ERROR:device_event_log_impl.cc(214)] [14:54:28.077] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[12696:23188:1023/145428.102:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[12696:6192:1023/145442.761:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
